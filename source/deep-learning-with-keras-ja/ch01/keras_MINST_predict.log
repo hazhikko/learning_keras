@@ -1,0 +1,22 @@
+(keras) K:\python\envs\keras>python source\deep-learning-with-keras-ja\ch01\keras_MINST_predict.py
+Using TensorFlow backend.
+./source/deep-learning-with-keras-ja/ch01/color_white\0.png:5:100.0
+./source/deep-learning-with-keras-ja/ch01/color_white\1.png:5:79.7137
+./source/deep-learning-with-keras-ja/ch01/color_white\2.png:5:99.99365
+./source/deep-learning-with-keras-ja/ch01/color_white\3.png:5:99.89852
+./source/deep-learning-with-keras-ja/ch01/color_white\4.png:3:56.94342
+./source/deep-learning-with-keras-ja/ch01/color_white\5.png:3:37.32964
+./source/deep-learning-with-keras-ja/ch01/color_white\6.png:3:53.40275
+./source/deep-learning-with-keras-ja/ch01/color_white\7.png:5:99.99617
+./source/deep-learning-with-keras-ja/ch01/color_white\8.png:5:99.9923
+./source/deep-learning-with-keras-ja/ch01/color_white\9.png:5:99.96269
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\0.png:2:92.31454
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\1.png:3:93.20578
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\2.png:2:100.0
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\3.png:3:99.78989
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\4.png:4:99.06922
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\5.png:5:99.99999
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\6.png:5:99.96178
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\7.png:3:97.84509
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\8.png:8:86.71989
+./source/deep-learning-with-keras-ja/ch01/grayscale_black\9.png:3:99.3636
